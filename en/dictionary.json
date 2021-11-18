@@ -1,0 +1,9 @@
+{
+  "zcash": "Zcash",
+  "address": "address",
+  "transaction": "transaction",
+  "shielded": "shielded",
+  "transparent": "transparent",
+  "snap-address": "Snap Address",
+  "cold-storage": "cold storage"
+}
